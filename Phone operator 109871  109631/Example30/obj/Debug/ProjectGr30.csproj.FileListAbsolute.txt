@@ -1,0 +1,16 @@
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\bin\Debug\Project.exe.config
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\bin\Debug\Project.exe
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\bin\Debug\Project.pdb
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\ProjectGr30.csprojAssemblyReference.cache
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Glavna.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Otchet_i_zapisvane.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Project.Properties.Resources.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.spravkavid.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Tarsene_po_ime_ili_nomer.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Vremetraener.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\ProjectGr30.csproj.GenerateResource.cache
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\ProjectGr30.csproj.CoreCompileInputs.cache
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Project.exe
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Project.pdb

@@ -1,0 +1,98 @@
+D:\Projects\Example30\Example30\bin\Debug\Example30.exe.config
+D:\Projects\Example30\Example30\bin\Debug\Example30.exe
+D:\Projects\Example30\Example30\bin\Debug\Example30.pdb
+D:\Projects\Example30\Example30\obj\Debug\Example30.csprojResolveAssemblyReference.cache
+D:\Projects\Example30\Example30\obj\Debug\Example30.Glavna.resources
+D:\Projects\Example30\Example30\obj\Debug\Example30.Properties.Resources.resources
+D:\Projects\Example30\Example30\obj\Debug\Example30.csproj.GenerateResource.Cache
+D:\Projects\Example30\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+D:\Projects\Example30\Example30\obj\Debug\Example30.exe
+D:\Projects\Example30\Example30\obj\Debug\Example30.pdb
+D:\Projects\Example30\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\Projects\Example30\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\bin\Debug\Example30.exe.config
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\bin\Debug\Example30.exe
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\bin\Debug\Example30.pdb
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.csprojResolveAssemblyReference.cache
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.Glavna.resources
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.Properties.Resources.resources
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.csproj.GenerateResource.Cache
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.exe
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.pdb
+D:\projects\upr 30 grupa yp\kursova\Example30\Example30\obj\Debug\Example30.spravkavid.resources
+C:\Users\Cats\Desktop\Example30\Example30\bin\Debug\Example30.exe.config
+C:\Users\Cats\Desktop\Example30\Example30\bin\Debug\Example30.exe
+C:\Users\Cats\Desktop\Example30\Example30\bin\Debug\Example30.pdb
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.Glavna.resources
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.Properties.Resources.resources
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.spisak.resources
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.spravkavid.resources
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.Vavejdane.resources
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.csproj.GenerateResource.cache
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.exe
+C:\Users\Cats\Desktop\Example30\Example30\obj\Debug\Example30.pdb
+D:\projects\New folder\овер\Example30\bin\Debug\Example30.exe.config
+D:\projects\New folder\овер\Example30\bin\Debug\Example30.exe
+D:\projects\New folder\овер\Example30\bin\Debug\Example30.pdb
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.csprojAssemblyReference.cache
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.Glavna.resources
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.Properties.Resources.resources
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.spravkavid.resources
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.csproj.GenerateResource.cache
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.exe
+D:\projects\New folder\овер\Example30\obj\Debug\Example30.pdb
+D:\projects\New folder\New folder\овер\Example30\bin\Debug\Example30.exe.config
+D:\projects\New folder\New folder\овер\Example30\bin\Debug\Example30.exe
+D:\projects\New folder\New folder\овер\Example30\bin\Debug\Example30.pdb
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.csprojAssemblyReference.cache
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.Glavna.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.Properties.Resources.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.spravkavid.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.csproj.GenerateResource.cache
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.exe
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.pdb
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.Otchet_i_zapisvane.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.Tarsene_po_ime_ili_nomer.resources
+D:\projects\New folder\New folder\овер\Example30\obj\Debug\Example30.Vremetraener.resources
+D:\projects\kursova\proekt\овер\Example30\bin\Debug\Example30.exe.config
+D:\projects\kursova\proekt\овер\Example30\bin\Debug\Example30.exe
+D:\projects\kursova\proekt\овер\Example30\bin\Debug\Example30.pdb
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.csprojAssemblyReference.cache
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.Glavna.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.Otchet_i_zapisvane.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.Properties.Resources.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.spravkavid.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.Tarsene_po_ime_ili_nomer.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.Vremetraener.resources
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.csproj.GenerateResource.cache
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.exe
+D:\projects\kursova\proekt\овер\Example30\obj\Debug\Example30.pdb
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\bin\Debug\Project.exe.config
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\bin\Debug\Project.exe
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\bin\Debug\Project.pdb
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.csprojAssemblyReference.cache
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Glavna.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Otchet_i_zapisvane.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Project.Properties.Resources.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.spisak.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.spravkavid.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Tarsene_po_ime_ili_nomer.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Vavejdane.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.Vremetraener.resources
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.csproj.GenerateResource.cache
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Example30.csproj.CoreCompileInputs.cache
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Project.exe
+D:\projects\kursova\proekt\Проект курсова работа на 109871 и 109631\Example30\obj\Debug\Project.pdb
